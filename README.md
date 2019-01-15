@@ -1,4 +1,4 @@
-# org.buffalo-coders:aws-lambda-parent
+# org.buffalo-coders:aws-parent
 
 Apache Maven top level pom for all Buffalo Coders AWS projects.
 
@@ -10,6 +10,6 @@ Leverage this top level pom via `<parent>` tag:
   <parent>
     <groupId>org.buffalo-coders</groupId>
     <artifactId>aws-parent</artifactId>
-    <version>1</version>
+    <version>1-SNAPSHOT</version>
   </parent>
 ```
