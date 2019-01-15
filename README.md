@@ -13,3 +13,7 @@ Leverage this top level pom via `<parent>` tag:
     <version>1-SNAPSHOT</version>
   </parent>
 ```
+
+## Status
+
+[![Build Status](https://travis-ci.com/buffalo-coders/aws-parent.svg?branch=master)](https://travis-ci.com/buffalo-coders/aws-parent)
