@@ -1,6 +1,6 @@
 /*-
  * #%L
- * org.buffalo-coders:aws-parent
+ * org.buffalo-coders.aws:parent
  * %%
  * Copyright (C) 2019 Buffalo Coders
  * %%
