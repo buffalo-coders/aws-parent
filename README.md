@@ -10,7 +10,7 @@ Leverage this top level pom via `<parent>` tag:
   <parent>
     <groupId>org.buffalo-coders.aws</groupId>
     <artifactId>parent</artifactId>
-    <version>1-SNAPSHOT</version>
+    <version>1</version>
   </parent>
 ```
 
