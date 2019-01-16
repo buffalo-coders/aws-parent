@@ -8,8 +8,8 @@ Leverage this top level pom via `<parent>` tag:
 
 ```xml
   <parent>
-    <groupId>org.buffalo-coders</groupId>
-    <artifactId>aws-parent</artifactId>
+    <groupId>org.buffalo-coders.aws</groupId>
+    <artifactId>parent</artifactId>
     <version>1-SNAPSHOT</version>
   </parent>
 ```
